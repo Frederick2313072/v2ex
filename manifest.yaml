@@ -13,7 +13,6 @@ description:
   zh_Hans: 搜索和获取V2EX论坛内容，包括热门主题、最新主题、节点信息和用户资料
   pt_BR: Buscar e recuperar conteúdo do fórum V2EX incluindo tópicos quentes, tópicos mais recentes, informações de nós e perfis de usuários
 icon: icon.svg
-icon_dark: icon-dark.svg
 resource:
   memory: 268435456
   permission:

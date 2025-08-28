@@ -1,4 +1,5 @@
 # V2EX 论坛搜索插件
+[English](README.en.md) | **中文**
 
 **作者:** frederick  
 **版本:** 0.0.1  
@@ -202,7 +203,7 @@ v2ex/
 1. 查看本 README 文档
 2. 阅读 [GUIDE.md](GUIDE.md) 开发指南
 3. 在 GitHub 仓库提交 Issue
-4. 联系作者：frederick
+4. 联系作者：2313072@mail.nankai.edu.cn
 
 ---
 
